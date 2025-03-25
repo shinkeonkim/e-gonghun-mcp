@@ -1,0 +1,21 @@
+[project]
+name = "gonghun-mcp"
+version = "0.1.0"
+description = "독립유공자 공훈록 MCP 서버"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+ "httpx>=0.28.1",
+ "mcp>=1.5.0",
+ "python-dotenv>=1.0.1",
+]
+[[project.authors]]
+name = "shinkeonkim"
+email = "dev.shinkeonkim@gmail.com"
+
+[build-system]
+requires = [ "hatchling",]
+build-backend = "hatchling.build"
+
+[project.scripts]
+gonghun-mcp = "gonghun_mcp:run"
