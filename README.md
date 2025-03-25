@@ -2,6 +2,10 @@
 
 국가보훈부 공훈전자사료관의 독립유공자 공훈록 및 공적조서를 조회할 수 있는 MCP(Model Context Protocol) 서버입니다.
 
+<a href="https://glama.ai/mcp/servers/@shinkeonkim/e-gonghun-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@shinkeonkim/e-gonghun-mcp/badge" alt="독립유공자 공훈록 서버 MCP server" />
+</a>
+
 ## 준비사항
 
 시작하기 전에 다음 도구들이 필요합니다:
